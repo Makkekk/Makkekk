@@ -1,10 +1,10 @@
 # Hi there, I'm Karsten! 👋
 
-Jeg er datamatiker-studerende ved **Erhvervsakademi Aarhus**, hvor jeg arbejder med at opbygge en stærk teknisk fundament gennem både kode og systemforståelse.
+I am a Computer Science student at Business Academy Aarhus, where I am building a strong technical foundation through both coding and systems understanding.
 
 ### 🛠 Tech Stack
 
-**Programmering & Web**
+**Programming & Web**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -12,7 +12,7 @@ Jeg er datamatiker-studerende ved **Erhvervsakademi Aarhus**, hvor jeg arbejder 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 
-**Tools, Databaser & Infrastruktur**
+**Tools, Database & Infrastructur**
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
