@@ -20,22 +20,23 @@ I am a Computer Science student at Business Academy Aarhus, where I am building 
 
 ---
 
-### 🎓 Uddannelse & Fokusområder
-Jeg studerer på **Erhvervsakademi Aarhus**, hvor jeg kombinerer programmering med dybdegående forståelse for systemer. Mine primære fokusområder inkluderer:
+### 🎓 Education & Focus Areas
+I am a student at Business Academy Aarhus, where I combine programming with an in-depth understanding of systems. My primary areas of focus include:
 
-* **Distribueret Udvikling & Integration:** Erfaring med at koble systemer sammen med fokus på arkitektur og sikkerhed.
-* **Databaser & Operativsystemer:** Forståelse for effektiv datalagring, forespørgsler og hvordan software interagerer med hardware.
-* **Forretning & IT:** Evnen til at analysere forretningsbehov og omsætte dem til tekniske løsninger.
+
+* **Distributed Development & Integration:** Experience connecting systems with a focus on architecture and security.
+* **Databases & Operating Systems:** Understanding of efficient data storage, querying, and how software interacts with hardware.
+* **Business & it** The ability to analyze business requirements and translate them into technical solutions.
 
 ---
 
-### 📂 Portefølje
+### 📂 Portfolio
 Denne profil indeholder primært:
-- Projekter fra min studietid ved EAAA.
-- Tekniske øvelser i backend-logik (Java/Python) og frontend-struktur.
-- Eksperimenter med containerisering via Docker.
+- Projects from my studies at Business Academy Aarhus (EAAA).
+- Technical exercises in backend logic (Java/Python) and frontend structure.
+- Experiments with containerization using Docker.
 
-### 📫 Kontakt mig
+### 📫 Contact me
 - **Email:** karsten-kirkegaard@hotmail.com
 * **LinkedIn:** [linkedin.com/in/karstenkirkegaard](https://www.linkedin.com/in/karstenkirkegaard/)
 
