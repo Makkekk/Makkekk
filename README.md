@@ -42,5 +42,7 @@ This GitHub profile is a collection of my progress. You’ll find:
 ---
 
 ### 📊 GitHub Activity
+
 ![Karsten's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makkekk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makkekk&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Makkekk&layout=compact&theme=tokyonight)
